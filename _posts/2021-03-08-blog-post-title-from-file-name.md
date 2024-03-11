@@ -6,6 +6,7 @@ If the file does not start with a header, then the post title will be derived fr
 
 This is a sample blog post. You can talk about all sorts of fun things here.
 
+$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
 ---
 
 ### This is a header
