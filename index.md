@@ -1,1 +1,1 @@
-{include "/andreimr/README.md"}
+{% include "/andreimr/README.md" %}
