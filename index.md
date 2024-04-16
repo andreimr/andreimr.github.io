@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on some FOSS project where I get to do the above.
 - 🤔 I’m looking for help with the previous bullet.
 - 💬 Ask me about [CHRY 105.5 FM](https://chry.fm)
-- 📫 How to reach me: <a>
+- 📫 How to reach me: rotenstein.andrei.v@gmail.com 
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: it's a fact my wife doesn't think there's anything fun about me.
 
